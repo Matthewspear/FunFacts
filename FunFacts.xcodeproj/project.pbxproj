@@ -12,6 +12,7 @@
 		A3B47F3F1CC58C0100E209A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3B47F3D1CC58C0100E209A4 /* Main.storyboard */; };
 		A3B47F411CC58C0100E209A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3B47F401CC58C0100E209A4 /* Assets.xcassets */; };
 		A3B47F441CC58C0100E209A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3B47F421CC58C0100E209A4 /* LaunchScreen.storyboard */; };
+		A3B47F4C1CC58DA900E209A4 /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B47F4B1CC58DA900E209A4 /* FactBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A3B47F401CC58C0100E209A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3B47F431CC58C0100E209A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A3B47F451CC58C0100E209A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3B47F4B1CC58DA900E209A4 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A3B47F391CC58C0100E209A4 /* AppDelegate.swift */,
 				A3B47F3B1CC58C0100E209A4 /* ViewController.swift */,
+				A3B47F4B1CC58DA900E209A4 /* FactBook.swift */,
 				A3B47F3D1CC58C0100E209A4 /* Main.storyboard */,
 				A3B47F401CC58C0100E209A4 /* Assets.xcassets */,
 				A3B47F421CC58C0100E209A4 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3B47F4C1CC58DA900E209A4 /* FactBook.swift in Sources */,
 				A3B47F3C1CC58C0100E209A4 /* ViewController.swift in Sources */,
 				A3B47F3A1CC58C0100E209A4 /* AppDelegate.swift in Sources */,
 			);
@@ -286,6 +290,7 @@
 				A3B47F4A1CC58C0100E209A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
