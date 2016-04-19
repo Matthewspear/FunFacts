@@ -6,7 +6,7 @@
 
 FunFacts is an app that displays a random fun fact at the press of a button. Each time you pick a random fact it displays with a new background colour.
 
-![App Screenshots](./screenshots.png)
+![App Screenshots](./Screenshots.png)
 
 ## Guide
 
