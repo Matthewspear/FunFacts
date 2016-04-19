@@ -1,21 +1,31 @@
-# FunFacts
+# FunFacts App
 
-App that displays a random fun fact at the press of a button
+<div style="text-align:center"><img src="./App Icon/Icon-60@3x.png" alt="App Icon"></div>
 
 ## The Project
 
+FunFacts is an app that displays a random fun fact at the press of a button. Each time you pick a random fact it displays with a new background colour.
+
+![App Screenshots](./screenshots.png)
 
 ## Guide
 
+### 1. Create a new project
 
-### Step 1. Create a new project
+### 2. Build the FactBook
 
-### Step 2. Build the FactBook
+### 3. Design the interface
 
-The FactBook forms the data struct of the project and contrains
+### 4. Connect the interface
 
-### Step 3. Design the interface
+### 5. Write the code
 
-### Step 4. Connect the interface
+### Extension Ideas
 
-### Step 5. Write the code
+* Write a new ViewController to add your own facts to the app
+* Click the fact to open a reference website
+* Shake to show another facts
+
+## Acknowledgement
+
+The original idea for the project comes from Treehouse.
