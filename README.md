@@ -1,5 +1,9 @@
 # FunFacts App
 
+[![Build Status](https://travis-ci.org/Matthewspear/FunFacts.svg?branch=master)](https://travis-ci.org/Matthewspear/FunFacts)
+
+Update: 20/04/16 - Guide in progresses, check back for update!
+
 <div style="text-align:center"><img src="./App Icon/Icon-60@3x.png" alt="App Icon"></div>
 
 ## The Project
